@@ -1,1 +1,1 @@
-[{"name":"test","path":"api/tags/test.json","slug":"test","count":1},{"name":"hexo","path":"api/tags/hexo.json","slug":"hexo","count":1},{"name":"Music","path":"api/tags/Music.json","slug":"Music","count":1},{"name":"Life","path":"api/tags/Life.json","slug":"Life","count":1}]
+[{"name":"Music","path":"api/tags/Music.json","slug":"Music","count":1},{"name":"Life","path":"api/tags/Life.json","slug":"Life","count":2},{"name":"test","path":"api/tags/test.json","slug":"test","count":1},{"name":"hexo","path":"api/tags/hexo.json","slug":"hexo","count":1}]
