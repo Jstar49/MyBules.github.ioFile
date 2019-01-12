@@ -1,1 +1,1 @@
-![49star.com](https://49star.com/)
+[49star.com](https://49star.com/)
